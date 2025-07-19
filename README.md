@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saujanya</h1>
-<h3 align="center">A passionate Web developer and Open Source contributor from India</h3>
+<h3 align="center">A passionate Web developer and Open Source contributor</h3>
 
 - 🔭 I’m currently working on [Open Source Contribution in ASYNC API INITIATIVE](https://github.com/asyncapi)
 
