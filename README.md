@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saujanyamagarde5@gmail.com**
 
-- 📄 Know about my experiences [i work as data analyst intern on Data Analytics using AI - LLMs](i work as data analyst intern on Data Analytics using AI - LLMs)
+- 📄 Know about my experiences i work as data analyst intern on Data Analytics using AI - LLMs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
