@@ -15,7 +15,7 @@
 <td width="50%">
 
 ### 🔭 **Currently Working On**
-- 🌐 **Open Source Contribution** in [AsyncAPI Initiative](https://www.asyncapi.com/)
+- 🌐 **Open Source Contribution** in [stdlib](https://github.com/stdlib-js/stdlib)
 - 🚗 **Roadway** - Advanced ride booking platform
 - 📊 **Data Analytics** projects using AI & LLMs
 
